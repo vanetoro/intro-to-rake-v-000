@@ -5,8 +5,8 @@ task :hello do
 end
 
 desc 'outputs hola to the terminal'
-task :hola do 
-  puts 'hola de rake'
+task :hola do
+  puts 'hola de rake!'
 end
 end
 
